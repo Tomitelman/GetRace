@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "819996016600",
+    "firebase_url": "https://getrace-c2cfe.firebaseio.com",
+    "project_id": "getrace-c2cfe",
+    "storage_bucket": "getrace-c2cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819996016600:android:b98cb49403b3a8c5d5fcad",
+        "android_client_info": {
+          "package_name": "com.example.getracefix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819996016600-9cajgs3mpc95k3553qptus1egcpdfo04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv6__OXNTW5MIvQwt5Zf9mHq2eX7kyf0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819996016600-9cajgs3mpc95k3553qptus1egcpdfo04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

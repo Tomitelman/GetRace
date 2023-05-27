@@ -1,0 +1,55 @@
+<resources>
+
+    <string-array name="Regions_array">
+        <item>Choose City</item>
+        <item>Tiberias</item>
+        <item>Tel Aviv</item>
+        <item>Haifa</item>
+        <item>Eilat</item>
+    </string-array>
+
+    <string-array name="loc_array">
+        <item>Paz Junction</item>
+        <item>Golani Interchange</item>
+        <item>Central Station</item>
+        <item>Migdal</item>
+    </string-array>
+
+
+    <string-array name="Tel_array">
+        <item>Azrieli</item>
+        <item>Ben Gurion Airport</item>
+        <item>Gordon Beach</item>
+        <item>Bloomfield</item>
+    </string-array>
+
+    <string-array name="Eilat_array">
+        <item>Sea Mall</item>
+        <item>Timmna Airport</item>
+        <item>Ice Mall</item>
+        <item>Taba Crossing</item>
+    </string-array>
+
+
+    <string-array name="Haifa_array">
+        <item>Dado Beach</item>
+        <item>University</item>
+        <item>Bay Center</item>
+        <item>Technion</item>
+    </string-array>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="lblAcc">Select Account Type</string>
+    <string name="lblSubAcc">Select Account Head</string>
+    <string name="app_name">GetRaceFIX</string>
+    <string name="title_activity_home">Home</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
